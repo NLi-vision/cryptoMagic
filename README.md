@@ -1,7 +1,6 @@
 # cryptoMagic
 This is an encrypting / decrypting utility for Linux. 
-This utility will take any ASCII file and encrypt it in such a way that its contents are not readable – until they are decrypted by the utility.
-1. The utility needs to be called cryptoMagic and needs to be written in C
+1.This utility will take any ASCII file and encrypt it in such a way that its contents are not readable – until they are decrypted by the utility.
     a. The utility has 2 command-line switches – they are –encrypt and –decrypt
     b. If none of these switches is specified, then –encrypt is assumed
     c. The utility also takes the name of an ASCII input file to encrypt/decrypt as an argument.
